@@ -6,12 +6,15 @@
 
 ## Hi there 👋
 
-Webサービスを個人開発しています。
-日々の中で見つけた「ちょっと不便だな」を、企画・UI設計・実装まで一人で形にするのが好きです。
+Webアプリを個人開発しています。
+日々の中で見つけた「ちょっと不便だな」を、企画・UI設計・実装まで一人で形にしています。
 
 **Tech Stack**
+
 Next.js / TypeScript / Tailwind CSS / Supabase / Vercel 
+
 **Works**
+
 - 🐱 NekoPomo — 猫育成×ポモドーロタイマーアプリ (React Native)
 - 🩺 Tejun — AI検索付きの業務手順書管理アプリ
 - 🗣️ Mirureco — 音声入力対応の申し送り変換アプリ
