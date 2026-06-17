@@ -10,8 +10,7 @@ Webサービスを個人開発しています。
 日々の中で見つけた「ちょっと不便だな」を、企画・UI設計・実装まで一人で形にするのが好きです。
 
 **Tech Stack**
-Next.js / TypeScript / Tailwind CSS / Supabase / Vercel / Claude API
-
+Next.js / TypeScript / Tailwind CSS / Supabase / Vercel 
 **Works**
 - 🐱 NekoPomo — 猫育成×ポモドーロタイマーアプリ (React Native)
 - 🩺 Tejun — AI検索付きの業務手順書管理アプリ
