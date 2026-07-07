@@ -15,6 +15,6 @@ Next.js / TypeScript / Tailwind CSS / Supabase / Vercel
 
 **Works**
 
-- 🐱 NekoPomo — 猫育成×ポモドーロタイマーアプリ (React Native)
+- 🐱 NekoPomo — 猫に癒されるポモドーロタイマー×タスク管理アプリ (React Native)
 - 🩺 Tejun — AI検索付きの業務手順書管理アプリ
 - 🗣️ Mirureco — 音声入力対応の申し送り変換アプリ
